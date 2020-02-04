@@ -1,3 +1,4 @@
 Name: Yvana
 Age: 26
 Favorite Color: Orange
+Favorite animal: Penguin
